@@ -1,2 +1,2 @@
 # Stenskara
-Passion project
+Math grapher
